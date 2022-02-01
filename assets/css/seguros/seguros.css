@@ -70,3 +70,11 @@
     grid-template-columns: 1fr;
   }
 }
+
+dd {
+  display: none;
+}
+
+dd.--active {
+  display: block;
+}
